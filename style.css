@@ -349,10 +349,11 @@ input{
 }
 .div222{
   margin-top: -40px;
-  background-color: slateblue;
+  background-color: #252B42;
   padding: 60px 60px;
   margin-bottom: 80px;
   margin-bottom: -40px;
+  color: white;
 }
 
 .div111 img{
@@ -432,6 +433,7 @@ h6{
   gap: 15px;
   text-align: center;
   line-height: 1.8;
+  padding: 20px 20px;
 }
 .footer1 img{
   width: 30px;
@@ -439,7 +441,7 @@ h6{
   
 }
 .footer123{
-  background-color: royalblue;
+  background-color: #16697a;
   
 }
 .img-image{
@@ -450,7 +452,7 @@ h6{
   flex-direction: column;
   gap: 15px;
   text-align: center;
-  line-height: 1.8;
+  line-height: 2.5;
 
 }
 .footer12 img{
@@ -482,7 +484,7 @@ h6{
   padding: 36px 15px;
 }
 .footer1234{
-  background-color: rgb(234, 233, 233);
+  background-color: #fafafa;
 }
 @media (max-width: 820px){
   .footer12345{
